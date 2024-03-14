@@ -1,0 +1,32 @@
+#topBar{
+background: #545454;
+padding: 8px 0px;
+}
+.contact-list{
+    display: flex;
+    margin: 0;
+    font-size: 12px;
+    line-height: 22px;
+}
+.contact-list li{
+    color: white;
+    margin-right: 16px;
+}
+.contact-list li i{
+    color: #e96b56;
+    margin-right: 2px;
+}
+
+.social-list {
+    display: flex;
+    justify-content: end;
+    margin: 0;
+}
+
+.social-list li{
+    margin-left: 6px;
+}
+
+.social-list li a i{
+    color: #bababa;
+}

@@ -1,0 +1,55 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* font-family: "Open Sans", serif; */
+
+
+section .title{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+section .title .text{
+    font-family: "Marcellus", serif;
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+section .desc{
+    text-align: center;
+    color: #656565;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 100;
+}
+
+.offer-box{
+    text-align: center;
+    padding: 24px;
+}
+
+.offer-box img{
+    margin-bottom: 14px;
+}
+
+.offer-box .offer-title{
+    font-family: "Marcellus", serif;
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    color: #262626;
+    margin-bottom: 8px;
+}
+
+.offer-box .offer-text{
+    color: #656565;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 26px;
+}
